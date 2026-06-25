@@ -49,8 +49,6 @@ def generate_insights_node(state: ResumeToPortfolioState) -> dict:
                     model = model_name, 
                     temperature = 0.4, 
                     google_api_key = api_key,
-                    max_tokens = 550,
-                    max_output_tokens = 500,
                     max_retries = 2
                 )
                 logger.success(f"Successfully initialized Gemini model: {model_name}")

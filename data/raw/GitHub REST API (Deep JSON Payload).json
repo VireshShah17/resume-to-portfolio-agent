@@ -1,0 +1,74 @@
+{
+  "user_info": {
+    "login": "devjohn99",
+    "id": 8829103,
+    "public_repos": 4,
+    "followers": 42
+  },
+  "repositories": [
+    {
+      "name": "nextjs-saas-dashboard",
+      "description": "Enterprise-grade real-time analytical dashboard with state management, custom hooks, and chart integrations.",
+      "html_url": "https://github.com/devjohn99/nextjs-saas-dashboard",
+      "created_at": "2025-11-12T08:30:00Z",
+      "updated_at": "2026-06-10T14:22:00Z",
+      "stargazers_count": 18,
+      "watchers_count": 18,
+      "primary_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 84.5,
+        "CSS": 12.0,
+        "HTML": 3.5
+      },
+      "frameworks_detected": ["Next.js", "React", "TailwindCSS"],
+      "total_commits": 142
+    },
+    {
+      "name": "react-kanban-board",
+      "description": "A collaborative drag-and-drop project management workspace built with functional components.",
+      "html_url": "https://github.com/devjohn99/react-kanban-board",
+      "created_at": "2026-01-15T10:15:00Z",
+      "updated_at": "2026-05-20T09:11:00Z",
+      "stargazers_count": 7,
+      "watchers_count": 7,
+      "primary_language": "JavaScript",
+      "language_distribution": {
+        "JavaScript": 91.2,
+        "HTML": 8.8
+      },
+      "frameworks_detected": ["React", "MaterialUI"],
+      "total_commits": 68
+    },
+    {
+      "name": "crypto-portfolio-tracker",
+      "description": "Frontend single page app hooking into live WebSockets to stream digital asset values with interactive pricing nodes.",
+      "html_url": "https://github.com/devjohn99/crypto-portfolio-tracker",
+      "created_at": "2026-03-01T16:45:00Z",
+      "updated_at": "2026-06-14T21:05:00Z",
+      "stargazers_count": 24,
+      "watchers_count": 24,
+      "primary_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 95.0,
+        "HTML": 5.0
+      },
+      "frameworks_detected": ["React", "Redux Toolkit", "Vite"],
+      "total_commits": 110
+    },
+    {
+      "name": "university-cpp-labs",
+      "description": "Archive of standard data structures and algorithmic implementations from college curriculum.",
+      "html_url": "https://github.com/devjohn99/university-cpp-labs",
+      "created_at": "2024-09-05T09:00:00Z",
+      "updated_at": "2025-01-10T12:00:00Z",
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "primary_language": "C++",
+      "language_distribution": {
+        "C++": 100.0
+      },
+      "frameworks_detected": [],
+      "total_commits": 12
+    }
+  ]
+}
